@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tactical.Projections", "Tactical.Projections\Tactical.Projections.csproj", "{DE865C28-02B2-4AE8-8F16-C91748BDA91F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tactical.Projections.Tests", "Tactical.Projections.Tests\Tactical.Projections.Tests.csproj", "{FFC16085-0A9E-4D9F-8BC9-231B78CBB1FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE865C28-02B2-4AE8-8F16-C91748BDA91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE865C28-02B2-4AE8-8F16-C91748BDA91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE865C28-02B2-4AE8-8F16-C91748BDA91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE865C28-02B2-4AE8-8F16-C91748BDA91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC16085-0A9E-4D9F-8BC9-231B78CBB1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC16085-0A9E-4D9F-8BC9-231B78CBB1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC16085-0A9E-4D9F-8BC9-231B78CBB1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC16085-0A9E-4D9F-8BC9-231B78CBB1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3C443C-04C3-4F13-BB0C-126CB9421333}
+	EndGlobalSection
+EndGlobal
